@@ -16,4 +16,3 @@ Spider
 Stinkbug
 Termite
 Wasp
-Worm
